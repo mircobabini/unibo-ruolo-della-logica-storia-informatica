@@ -1,0 +1,426 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Ruolo della logica nella storia dell'Informatica
+\end_layout
+
+\begin_layout Author
+Mirco Babini
+\end_layout
+
+\begin_layout Date
+7 Gennaio 2013
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduzione
+\end_layout
+
+\begin_layout Paragraph
+Logica e formalismi nella natura umana
+\end_layout
+
+\begin_layout Standard
+Volendo effettuare una rapida panoramica di quello che è il ruolo della
+ logica nella storia dell'informatica non possiamo che considerare come,
+ il 
+\series bold
+pensiero logico
+\series default
+, proprio per la sua definizione, sia alla base di tutto ciò che implica
+ o è basato su un 
+\series bold
+percorso di sviluppo e crescita
+\series default
+ che si evolve adattandosi alle varie necessità di 
+\series bold
+risoluzione dei problemi
+\series default
+ informativi dell'epoca in cui ci contestualizziamo.
+\end_layout
+
+\begin_layout Standard
+L'informatica, intesa come disciplina che studia le 
+\series bold
+tecniche, le metodologie e i problemi
+\series default
+ connessi con la 
+\series bold
+rappresentazione, la memorizzazione, il reperimento e l'elaborazione automatica
+\series default
+ dell'informazione, implica la necessità di strategia per assolvere a tutti
+ gli ambiti di studio in maniera automatica grazie ad un 
+\series bold
+procedimento descritto in maniera esplicita e non ambigua
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Questi procedimenti che ricalcano i processi di elaborazione, sono descritti
+ dagli 
+\series bold
+algoritmi
+\series default
+, a loro volta esplicitati dai cosidetti 
+\series bold
+linguaggi di programmazione
+\series default
+, che non sono altro che il risultato della ricerca di un 
+\series bold
+linguaggio formale che potesse descrivere qualsiasi situazione in maniera
+ rigorosa, espilicità ed accessibile
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Quindi la logica, che rende possibili e significativi i linguaggi di programmazi
+one, ha un ruolo fondamentale in questo contesto nello sviluppo di applicazioni
+ e programmi sempre più complessi ed è tutt'ora alla base dei moderni software
+ utilizzati da ognuno di noi.
+\end_layout
+
+\begin_layout Section
+Storia
+\end_layout
+
+\begin_layout Paragraph
+Logica intrinseca
+\end_layout
+
+\begin_layout Standard
+Antropologicamente parlando, l'origine dell'abilità linguistica, raggiunta
+ al termine di un processo evolutivo durato centinaia di migliaia di anni,
+ ha segnato una linea fondamentale per la logica evolutiva orientata al
+ miglioramento della vita e all'assolvere le necessità più importanti quali
+ organizzazione e alimentazione.
+ È il prodotto diretto del 
+\series bold
+senso logico intrinseco nella natura umana che sfocia nella necessità di
+ dialogo e condivisione
+\series default
+ che ha generato nel corso dei secoli il linguaggio naturale, il quale marca
+ la strada per tre nuove fondamenta dell'uomo, ossia il senso etico, il
+ senso estetico e il 
+\series bold
+senso logico
+\series default
+.
+\end_layout
+
+\begin_layout Paragraph
+Logica implicita
+\end_layout
+
+\begin_layout Standard
+A dimostrazione di questo nuovo senso logico, che può essere definito come
+ una sorta di 
+\series bold
+logica implicita
+\series default
+ nell'uomo e che si distingue dalla logica intrinseca poiché è esattamente
+ da quest'ultima che ne deriva, abbiamo una serie di riscontri pratici,
+ ossia l'evoluzione di metodi efficaci per utilizzare le risorse naturali
+ e l'adozione di strutture sociali complesse da cui ne deriva l'adozione
+ di regole adatte alla vita sociale.
+ L'uomo ha quindi appreso una serie di competenze nell'organizzare le proprie
+ azioni ed è divenuto in grado di agire razionalmente e logicamente sviluppando
+ tecniche efficaci per interagire con l'ambiente informativo circostante.
+\end_layout
+
+\begin_layout Standard
+È il processo insito nella definizione di implicazione che permette la comprensi
+one di questo tipo di logica molto basilare e comune a praticamente tutte
+ le specie di animali del mondo.
+ L'implicazione consiste nella capacità di rispondere alle sollecitazioni
+ del mondo esterno grazie a tre caratteristiche fondamentali che sono la
+ sensibilità, la capacità di far corrispondere una determinata risposta
+ ad un determinato stimolo e la capacità di mettere in pratica le risposte
+ appena citate.
+\end_layout
+
+\begin_layout Standard
+Il concetto alla base di questa logica è l'intepretazione, ossia il modo
+ in cui vengono elaborate le risposte sulla base del significato attribuito
+ al segnale ricevuto.
+\end_layout
+
+\begin_layout Paragraph
+Logica esplicita
+\end_layout
+
+\begin_layout Standard
+Il linguaggio naturale, inizialmente formato da suoni e gesti per esprimere
+ concetti nella forma parlata e di pittogrammi, che rappresentavano oggetti,
+ nella forma scritta, si è poi evoluta in fonogrammi per rappresentare le
+ parole e nelle definitiva lettere dell'alfabeto, componente fondamentale
+ di qualsiasi linguaggio, fatta eccezione per quelli iconografici.
+\end_layout
+
+\begin_layout Standard
+La capacità di combinare simboli e di trascriverli fornendo un significato
+ consono al contesto, come del resto anche la capacità di contare, sono
+ tra le più antiche peculiarità necessarie fin dall'antichità per poter
+ gestire in maniera adeguata il proprio bestiame, i propri cari e il commercio
+ o baratto.
+ Proprio per contare gli animali nasce in definitiva il concetto di numero,
+ evolutosi fino alla generazione di un sistema complesso di calcolo, grazie
+ a tutta una serie di connettivi e simboli, denominato aritmetica.
+\end_layout
+
+\begin_layout Standard
+I sistemi di scrittura e numerazione affiancati quindi alla matematica,
+ considerata la teoria dell'informazione, e combinati con la necessità di
+ manipolare segni e idee fino al compimento di applicazioni pratiche, permettono
+ lo sviluppo di quella che è una 
+\series bold
+logica esplicita
+\series default
+, formale, rigorosa e in grado di convincere chiunque, che da vita a quelli
+ che comunemente conosciamo come linguaggi di programmazione.
+\end_layout
+
+\begin_layout Paragraph*
+Linguaggi di programmazione
+\end_layout
+
+\begin_layout Standard
+Alla base dell'informatica vediamo l'ambito della filosofia, della matematica
+ e della logica come attività che, in sentesi con l'ambito ingegneristico,
+ ne danno una definizione sulla base di tre elementi fondamentali che sono
+ i manufatti (computer), i metodi (algoritmi) e gli strumenti (linguaggi
+ di programmazione).
+\end_layout
+
+\begin_layout Standard
+Il percorso di crescita fino ad arrivare a questa definizione, inizia nel
+ diciassettesimo secolo quando 
+\series bold
+Leibniz
+\series default
+ mise sostanzialmente a punto la notazione utilizzata oggi giorno nel calcolo
+ infinitesimale sulla base dell'invenzione di Netwon avvenuta all'inizo
+ della seconda metà del 1600, la quale permette applicare il calcolo evitando
+ ragionamenti lunghi e complessi.
+ Nel 1679 lo stesso Liebniz pubblica una serie di scritti tra lui la 
+\emph on
+characteristica universalis
+\emph default
+, ossia un sistema di segni con cui esprimere formalmente un pensiero e
+ il 
+\emph on
+calculus ratiocinator
+\emph default
+, ossia il metodo per manipolare e costruire ragionamenti corretti.
+\end_layout
+
+\begin_layout Standard
+È proprio dal 
+\emph on
+calculus ratiocinator
+\emph default
+ di Leibniz che nasce l'idea che deve esistere un modo per enumerare e produrre
+ ragionamenti corretti che evitino infinite discussioni grazie alla loro
+ formalità e che, partendo da premesse corrette, fosse automatico enumerare
+ tutte le possilibi conclusioni corrette.
+ Apre la strada al pensiero che si possano fare calcoli generici con la
+ logica tradizionale, pensiero sviluppatosi verso la metà del diciannovesimo
+ secolo grazie a 
+\series bold
+Boole
+\series default
+, il quale pubblica un sistema formale parziale (algebra di Boole) che include
+ alcune regole di deduzione, nel 1847.
+\end_layout
+
+\begin_layout Standard
+Nel 1879 
+\series bold
+Frege
+\series default
+ riesce a dare vita ad un linguaggio artificiale dotato di regole formali
+ precise sia nel formare le frasi del linguaggio che per utilizzarle al
+ fine di dedurre altre frasi corrette, realizzando parzialmente le idee
+ li Leibniz pubblicate duecenti anni prima circa la 
+\emph on
+characteristica universalis
+\emph default
+, e pubblicando Ideografia, il volume contentente questi concetti.
+ L'unica mancanza era il fatto che, in caso di risultati non deducibili,
+ non era lecito affermare che non fosse possibile ottenerli in alcun caso,
+ poiché non si conoscevano metodi efficaci per dimostrare il contrario.
+\end_layout
+
+\begin_layout Standard
+Frege è stato il primo fautore del logicismo, ossia della prospettiva secondo
+ la quale l'aritmetica, in quanto costituita da proposizioni analitiche,
+ sarebbe riducibile alla sola logica.
+ Tratte queste conclusioni pare che sia possibile sia definire un linguaggio
+ formale capace di parlare (quasi) di qualunque cosa (quello di Frege),
+ che definire in maniera rigorosa il ragionamento logico (con l'algebra
+ di Boole), aprendo le porte alla possibilità di riscrivere nel nuovo linguaggio
+ quasi tutte le proposizioni corrette di qualsiasi ambito.
+\end_layout
+
+\begin_layout Paragraph
+Paradosso, decisione e completezza
+\end_layout
+
+\begin_layout Standard
+Nel primo decennio del ventesimo secolo viene scoperto un 
+\series bold
+paradosso
+\series default
+ che mette in crisi i principi fondamentali dell'aritmetica e nasce l'esigenza
+ di evitare il verificarsi di questo paradosso dimostrando che si può anche
+ realizzare la formalizzazione completa di tutta la matematica, che però
+ genera un problema fondamentale: garantire la coerenza della formalizzazione
+ evitando qualsiasi paradosso.
+\end_layout
+
+\begin_layout Standard
+Il problema della 
+\series bold
+completezza
+\series default
+, ossia la dimostrazione che ogni proposizione è vera (deducibile) o falsa
+ (non deducibile) viene risolto (parzialmente) da 
+\series bold
+Godel
+\series default
+ che, ispirandosi al modello del problema della terminazione diagonale di
+ Cantor, pone dei limiti alla completezza stessa e alla coerenza dei sistemi
+ formali, ammettendo quindi 
+\series bold
+proposizioni formalmente indecidibili
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Il problema della decisione invece, ossia ricerca di un algoritmo per decidere
+ se ogni proposizione (costruibile correttamente) è vera o falsa, viene
+ affrontato da Turing nel 1936, il quale espone una definizione formale
+ di algoritmo come 
+\emph on
+tutto e solo quello che può fare in modo esplicito una macchina astratta
+\emph default
+ detta appunto macchina di Turing.
+ Per cercare di rendere più plausibile la definizione, Turing genera la
+ macchina universale con un insieme limitato di stati e regole bene definiti
+ e in grado di realizzare qualunque algoritmo.
+ Questa macchina pone le basi al concetto di distinzione tra costrutti e
+ proposizioni dell'algoritmo e dati, alla base dei 
+\series bold
+linguaggi di programmazione
+\series default
+.
+\end_layout
+
+\begin_layout Section
+Conclusioni
+\end_layout
+
+\begin_layout Paragraph
+La nascita dei computer
+\end_layout
+
+\begin_layout Standard
+Da qui due grandi ingegneri del tempo, quali Shannon e Von Neumann, dimostrano
+ rispettivamente come l'algebra di Boole potesse, grazie a 
+\emph on
+relays
+\emph default
+ a due stati, essere alla base dei calcolatori automatici in base binaria
+ e come grazie ad una specifica architettura (appunto di Von Neumann) potesse
+ essere costruito un computer analogo alla Macchina di Turing universale,
+ quindi in grado di eseguire qualsiasi algoritmo.
+\end_layout
+
+\end_body
+\end_document
